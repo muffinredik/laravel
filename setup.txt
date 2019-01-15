@@ -1,0 +1,2 @@
+Install php and composer
+https://www.jeffgeerling.com/blog/2018/installing-php-7-and-composer-on-windows-10
